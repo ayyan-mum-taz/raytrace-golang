@@ -1,3 +1,9 @@
+## How I accomplished this
+
+I was only able to do this with the help of Peter Shirley's ray tracing tutorials which can be found at https://raytracing.github.io. 
+
+No prebuilt graphics libraries were used, this was done with just math/algorithms. Implements real physics in reflection, refraction, and scattering.
+
 
 ## What This Project Does
 
@@ -21,12 +27,6 @@ The raytracer renders a scene with:
 
 The output generates a PPM image file showing the rendered scene with realistic lighting, reflections, and refractions.
 
-
-## How I accomplished this
-
-I was only able to do this with the help of Peter Shirley's ray tracing tutorials which can be found at https://raytracing.github.io. 
-
-No prebuilt graphics libraries were used, this was done with just math/algorithms. Implements real physics in reflection, refraction, and scattering.
 
 ## Explanation of directory
 
